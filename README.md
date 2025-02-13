@@ -34,3 +34,10 @@ Scales easily to meet enterprise automation needs.
 UiPath is widely used in industries like finance, healthcare, logistics, and customer service for tasks like invoice processing, data entry, report generation, and chatbot automation.
 
 
+
+While Scrapping Data from Website I suffered from many problem in making flow Piplines
+For learning:  https://www.youtube.com/watch?v=oJFfUcqCLO8
+For Scrapping Data from Table (Scrolling Problem):  https://www.youtube.com/watch?v=046VQDEeARM
+For Practicing Purpose:  https://www.youtube.com/watch?v=s6FTqeiefu8
+
+
